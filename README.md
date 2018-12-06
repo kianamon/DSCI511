@@ -79,39 +79,15 @@ Drexel University, Philadelphia, PA
  AirportNames:						|Airport Name
 ******************************************************************************************************************************************
 Airport Codes:
-- 'JAX' 
-- 'GJT', 
-- 'TRI', 
-- 'IAH', 
-- 'EYW', 'DAL', 'AZO', 'AVL', 'INT', 'BGR', 
- 'AUS', 'DAY', 'ABE', 'HPN', 'OMA', 'ATL', 'FAT', 'RIC', 'GRR', 'SMF', 
- 'BOI', 'DET', 'MIA', 'MCO', 'CHS', 'SBN', 'SFO', 'LAS', 'AMA', 'PSP', 
- 'FSD', 'JFK', 'DCA', 'HIO', 'DTW', 'BDL', 'HVN', 'DLH', 'FAY', 'ABQ', 
- 'SNA', 'ROC', 'AUG', 'MHT', 'ORF', 'CVG', 'EWR', 'FAR', 'STL', 'SAV', 
- 'TTN', 'CLT', 'MDW', 'SWF', 'MCI', 'RDU', 'ONT', 'BWI', 'EUG', 'GPT', 
- 'PDX', 'BTV', 'LAX', 'DHN', 'ALM', 'TYS', 'LGA', 'LEX', 'PUB', 'HYA', 
- 'CPR', 'SAN', 'MSY', 'COS', 'CAE', 'YUM', 'PVD', 'RNO', 'HSV', 'PSC', 
- 'CHA', 'RSW', 'PIE', 'GSP', 'ALB', 'RAP', 'TOL', 'ACK', 'SAT', 'SDF', 
- 'CID', 'EVV', 'LIT', 'RST', 'ORD', 'ELP', 'LGB', 'FYV', 'TPA', 'MKE', 
- 'PHL', 'TUS', 'BUR', 'ORH', 'AGS', 'PWM', 'FLL', 'SYR', 'BIL', 'CMH', 
- 'FNT', 'DFW', 'ICT', 'LAN', 'IND', 'RUT', 'RKS', 'HTS', 'PHX', 'OAK', 
- 'CAK', 'BUF', 'DSM', 'MSN', 'LNK', 'SEA', 'ISP', 'MAF', 'FWA', 'GRB', 
- 'AVP', 'PFN', 'CRP', 'BTL', 'MDT', 'PIR', 'SLE', 'BNA', 'SGF', 'CYS', 
- 'CKB', 'MPV', 'BTR', 'SJC', 'MYR', 'GSO', 'MOB', 'TUL', 'JAC', 'BIS', 
- 'CRW', 'ASE', 'PHF', 'CLE', 'SHV', 'MSP', 'DAB', 'PIA', 'FLG', 'SRQ', 
- 'PBI', 'ACY', 'MGM', 'GEG', 'PIT', 'SLC', 'ROA', 'PNS', 'BOS', 'MBS', 
- 'BHM', 'MEM', 'DEN', 'MLI', 'HOU', 'XNA', 'JAN', 'ERI', 'LBB', 'OKC']
-******************************************************************************************************************************************
-Dates:
-
-["20181127", "20181126", "20181125", "20181124", "20181123", "20181122", 
- "20181121", "20181120", "20181119", "20181118", "20181117", "20181116", 
- "20181115", "20181114", "20181113", "20181112", "20181111", "20181110", 
- "20181109", "20181108", "20181107", "20181106", "20181105", "20181104", 
- "20181103", "20181102", "20181101", "20181031", "20181030", "20181029", 
- "20181028", "20181027", "20181026", "20181025", "20181024", "20181023", 
- "20181022", "20181021", "20181020", "20181019", "20181018", "20181017", 
- "20181016", "20181015", "20181014", "20181013", "20181012", "20181011", 
- "20181010", "20181009", "20181008", "20181007", "20181006", "20181005", 
- "20181004", "20181003", "20181002", "20181001", "20180930", "20180929"]
+ - 'JAX', 'GJT', 'TRI', 'IAH', 'EYW', 'DAL', 'AZO', 'AVL', 'INT', 'BGR', 'AUS', 'DAY', 'ABE', 'HPN', 'OMA', 'ATL', 'FAT', 
+ - 'RIC', 'GRR', 'SMF', 'BOI', 'DET', 'MIA', 'MCO', 'CHS', 'SBN', 'SFO', 'LAS', 'AMA', 'PSP', 'FSD', 'JFK', 'DCA', 'HIO', 
+ - 'DTW', 'BDL', 'HVN', 'DLH', 'FAY', 'ABQ', 'SNA', 'ROC', 'AUG', 'MHT', 'ORF', 'CVG', 'EWR', 'FAR', 'STL', 'SAV', 'TTN', 
+ - 'CLT', 'MDW', 'SWF', 'MCI', 'RDU', 'ONT', 'BWI', 'EUG', 'GPT', 'PDX', 'BTV', 'LAX', 'DHN', 'ALM', 'TYS', 'LGA', 'LEX', 
+ - 'PUB', 'HYA', 'CPR', 'SAN', 'MSY', 'COS', 'CAE', 'YUM', 'PVD', 'RNO', 'HSV', 'PSC', 'CHA', 'RSW', 'PIE', 'GSP', 'ALB', 
+ - 'RAP', 'TOL', 'ACK', 'SAT', 'SDF', 'CID', 'EVV', 'LIT', 'RST', 'ORD', 'ELP', 'LGB', 'FYV', 'TPA', 'MKE', 'PHL', 'TUS', 
+ - 'BUR', 'ORH', 'AGS', 'PWM', 'FLL', 'SYR', 'BIL', 'CMH', 'FNT', 'DFW', 'ICT', 'LAN', 'IND', 'RUT', 'RKS', 'HTS', 'PHX', 
+ - 'OAK', 'CAK', 'BUF', 'DSM', 'MSN', 'LNK', 'SEA', 'ISP', 'MAF', 'FWA', 'GRB', 'AVP', 'PFN', 'CRP', 'BTL', 'MDT', 'PIR', 
+ - 'SLE', 'BNA', 'SGF', 'CYS', 'CKB', 'MPV', 'BTR', 'SJC', 'MYR', 'GSO', 'MOB', 'TUL', 'JAC', 'BIS', 'CRW', 'ASE', 'PHF', 
+ - 'CLE', 'SHV', 'MSP', 'DAB', 'PIA', 'FLG', 'SRQ', 'PBI', 'ACY', 'MGM', 'GEG', 'PIT', 'SLC', 'ROA', 'PNS', 'BOS', 'MBS', 
+ - 'BHM', 'MEM', 'DEN', 'MLI', 'HOU', 'XNA', 'JAN', 'ERI', 'LBB', 'OKC']
 ******************************************************************************************************************************************
