@@ -7,9 +7,12 @@ Kiana Montazeri
 Dec 4th, 2018
 Drexel University, Philadelphia, PA
 *****************************************************************************************************************************************
- avgoktas 							              |Average Okta Number<br/ >
+ avgoktas 							              |Average Okta Number
+ 
  coolingdegreedays: 					        |Cooling Degree Days
+ 
  coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
+ 
  dewpoint: 					               		|Dew Point
  fog: 							                	|Fog
  gdegreedays: 					            	|Growing Degree Days
@@ -77,6 +80,7 @@ Drexel University, Philadelphia, PA
  AirportNames:						|Airport Name
 ******************************************************************************************************************************************
 Airport Codes:
+
 ['JAX', 'GJT', 'TRI', 'IAH', 'EYW', 'DAL', 'AZO', 'AVL', 'INT', 'BGR', 
  'AUS', 'DAY', 'ABE', 'HPN', 'OMA', 'ATL', 'FAT', 'RIC', 'GRR', 'SMF', 
  'BOI', 'DET', 'MIA', 'MCO', 'CHS', 'SBN', 'SFO', 'LAS', 'AMA', 'PSP', 
@@ -97,6 +101,7 @@ Airport Codes:
  'BHM', 'MEM', 'DEN', 'MLI', 'HOU', 'XNA', 'JAN', 'ERI', 'LBB', 'OKC']
 ******************************************************************************************************************************************
 Dates:
+
 ["20181127", "20181126", "20181125", "20181124", "20181123", "20181122", 
  "20181121", "20181120", "20181119", "20181118", "20181117", "20181116", 
  "20181115", "20181114", "20181113", "20181112", "20181111", "20181110", 
