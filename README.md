@@ -8,7 +8,7 @@ Dec 4th, 2018
 Drexel University, Philadelphia, PA
 *****************************************************************************************************************************************
 Columns | Definition |
---- | --- | --- | 
+--- | --- |
 avgoktas 							                   |Average Okta Number
  
  coolingdegreedays: 					           |Cooling Degree Days
