@@ -7,7 +7,8 @@ Kiana Montazeri
 Dec 4th, 2018
 Drexel University, Philadelphia, PA
 *****************************************************************************************************************************************
- avgoktas 							                   |Average Okta Number
+avgoktas | Average Okta Number | 
+avgoktas 							                   |Average Okta Number
  
  coolingdegreedays: 					           |Cooling Degree Days
  
