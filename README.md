@@ -8,48 +8,82 @@ Dec 4th, 2018
 Drexel University, Philadelphia, PA
 *****************************************************************************************************************************************
  avgoktas 							                   |Average Okta Number
+ 
  coolingdegreedays: 					           |Cooling Degree Days
+ 
  coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
+ 
  dewpoint: 					               	   	|Dew Point
- fog: 							                	|Fog
- gdegreedays: 					            	|Growing Degree Days
- hail: 								                |Hail
- heatingdegreedays: 					        |Heating Degree Days
- heatingdegreedaysnormal: 			      |Normal Heating Degree Days
- humidity: 							              |Humidity
- icon:							                 	|Type of Weather(sunny, cloudy, …)
- max_dewpoint:					             	|Maximum Dew Point
- max_humidity:					            	|Maximun Humidity
- max_pressure:					            	|Maximum Pressure
- max_temperature:						          |Maximum Temperature
- max_temperature_normal:				      |Normal Maximum Temperature
- max_temperature_record:				      |Record Maximum Temperature
+ 
+ fog: 							                	      |Fog
+ 
+ gdegreedays: 					                	|Growing Degree Days
+ 
+ hail: 								                     |Hail
+ 
+ heatingdegreedays: 					           |Heating Degree Days
+ 
+ heatingdegreedaysnormal: 			       |Normal Heating Degree Days
+ 
+ humidity: 							                  |Humidity
+ 
+ icon:							                      	|Type of Weather(sunny, cloudy, …)
+ 
+ max_dewpoint:					                	|Maximum Dew Point
+ 
+ max_humidity:					                	|Maximun Humidity
+ 
+ max_pressure:					            	    |Maximum Pressure
+ 
+ max_temperature:						             |Maximum Temperature
+ 
+ max_temperature_normal:				        |Normal Maximum Temperature
+ 
+ max_temperature_record:				        |Record Maximum Temperature
+ 
  max_temperature_record_year:		    	|Year of Record Maximum Temperature
- max_visibility:					          	|Maximum Visibility
- max_wind_speed:				          		|Maximum Wind Speed
- min_dewpoint:					            	|Minimum Dew Point
- min_humidity:					            	|Minimum Humidity
- min_pressure:					            	|Minimum Pressure
- min_temperature:					           	|Minimum Temperature
- min_temperature_normal:				      |Normal Minimum Temperature
- min_temperature_record:				      |Record Minimum Temperature
- min_temperature_record_year:		    	|Year of Record Minimum Temperature 
- min_visibility:					            |Minimum Visibility
- min_wind_speed:						          |Minimum Wind Speed
+ 
+ max_visibility:					          	    |Maximum Visibility
+ 
+ max_wind_speed:				          	    	|Maximum Wind Speed
+ 
+ min_dewpoint:					                	|Minimum Dew Point
+ 
+ min_humidity:					            	    |Minimum Humidity
+ 
+ min_pressure:					                 |Minimum Pressure
+ 
+ min_temperature:					             	|Minimum Temperature
+ 
+ min_temperature_normal:				        |Normal Minimum Temperature
+ 
+ min_temperature_record:				        |Record Minimum Temperature
+ 
+ min_temperature_record_year:		    	|Year of Record Minimum Temperature
+ 
+ min_visibility:					               |Minimum Visibility
+ 
+ min_wind_speed:						              |Minimum Wind Speed
+ 
  monthtodatecoolingdegreedays:		    |Month to Date Cooling Degree Days	
- monthtodatecoolingdegreedaysnormal:	|Normal Month to Date Cooling Degree Days	
+ 
+ monthtodatecoolingdegreedaysnormal:|Normal Month to Date Cooling Degree Days
+ 
  monthtodateheatingdegreedays:		    |Month to Date Heating Degree Days	
- monthtodateheatingdegreedaysnormal:	|Normal Month to Date Heating Degree Days
- monthtodateprecipitation:			      |Month to Date Precipitation
+ 
+ monthtodateheatingdegreedaysnormal:|Normal Month to Date Heating Degree Days
+ 
+ monthtodateprecipitation:			       |Month to Date Precipitation
+ 
  monthtodateprecipitationnormal:  		|Normal Month to Date Precipitation
- monthtodatesnowfall:				        	|Month to Date Snowfall
- precip:								              |Precipitation
- precipnormal:						            |Normal Precipitation
- preciprecord:					             	|Record Precipitation
- preciprecordyear:					|Year of Record Precipitation
- precipsource:						|Precipitation Source
- pressure:							|Pressure
- rain:								|Rain
+ monthtodatesnowfall:				          	|Month to Date Snowfall
+ precip:								                    |Precipitation
+ precipnormal:						                |Normal Precipitation
+ preciprecord:					                	|Record Precipitation
+ preciprecordyear:				             	|Year of Record Precipitation
+ precipsource:						                |Precipitation Source
+ pressure:							                   |Pressure
+ rain:								                      |Rain
  since1jancoolingdegreedays:			|Since Jan 1st Cooling Degree Days
  since1jancoolingdegreedaysnormal:		|Normal Since Jan 1st Cooling Degree Days
  since1janprecipitation:				|Since Jan 1st Precipitation
@@ -109,5 +143,3 @@ Dates:
  "20181010", "20181009", "20181008", "20181007", "20181006", "20181005", 
  "20181004", "20181003", "20181002", "20181001", "20180930", "20180929"]
 ******************************************************************************************************************************************
- 
-
