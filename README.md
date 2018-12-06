@@ -12,13 +12,9 @@ Columns | Definition |
 avgoktas 							                   |Average Okta Number
  
  coolingdegreedays: 					           |Cooling Degree Days
- 
  coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
- 
  dewpoint: 					               	   	|Dew Point
- 
  fog: 							                	      |Fog
- 
  gdegreedays: 					                	|Growing Degree Days
  
  hail: 								                     |Hail
