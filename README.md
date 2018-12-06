@@ -1,13 +1,13 @@
 # DSCI511 Project
 ## 60 Days of Weather Data
 Column information for WeatherData.csv dataset extracted from WeatherUnderground.com website:
-************************************************************************************************************************************************
+******************************************************************************************************************************************
 Provided by:
 Kiana Montazeri
 Dec 4th, 2018
 Drexel University, Philadelphia, PA
 *****************************************************************************************************************************************
- avgoktas 							              |Average Okta Number
+ avgoktas 							              |Average Okta Number<br/ >
  coolingdegreedays: 					        |Cooling Degree Days
  coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
  dewpoint: 					               		|Dew Point
