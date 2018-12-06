@@ -10,7 +10,6 @@ Drexel University, Philadelphia, PA
  Columns | Definition |
  --- | --- |
  avgoktas 							                   |Average Okta Number
- --- | --- |
  coolingdegreedays: 					           |Cooling Degree Days
  coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
  dewpoint: 					               	   	|Dew Point
@@ -25,45 +24,25 @@ Drexel University, Philadelphia, PA
  max_humidity:					                	|Maximun Humidity
  max_pressure:					            	    |Maximum Pressure
  max_temperature:						             |Maximum Temperature
- 
  max_temperature_normal:				        |Normal Maximum Temperature
- 
  max_temperature_record:				        |Record Maximum Temperature
- 
  max_temperature_record_year:		    	|Year of Record Maximum Temperature
- 
  max_visibility:					          	    |Maximum Visibility
- 
  max_wind_speed:				          	    	|Maximum Wind Speed
- 
  min_dewpoint:					                	|Minimum Dew Point
- 
  min_humidity:					            	    |Minimum Humidity
- 
  min_pressure:					                 |Minimum Pressure
- 
  min_temperature:					             	|Minimum Temperature
- 
  min_temperature_normal:				        |Normal Minimum Temperature
- 
  min_temperature_record:				        |Record Minimum Temperature
- 
  min_temperature_record_year:		    	|Year of Record Minimum Temperature
- 
  min_visibility:					               |Minimum Visibility
- 
  min_wind_speed:						              |Minimum Wind Speed
- 
  monthtodatecoolingdegreedays:		    |Month to Date Cooling Degree Days	
- 
  monthtodatecoolingdegreedaysnormal:|Normal Month to Date Cooling Degree Days
- 
  monthtodateheatingdegreedays:		    |Month to Date Heating Degree Days	
- 
  monthtodateheatingdegreedaysnormal:|Normal Month to Date Heating Degree Days
- 
  monthtodateprecipitation:			       |Month to Date Precipitation
- 
  monthtodateprecipitationnormal:  		|Normal Month to Date Precipitation
  monthtodatesnowfall:				          	|Month to Date Snowfall
  precip:								                    |Precipitation
@@ -100,7 +79,11 @@ Drexel University, Philadelphia, PA
  AirportNames:						|Airport Name
 ******************************************************************************************************************************************
 Airport Codes:
-['JAX', 'GJT', 'TRI', 'IAH', 'EYW', 'DAL', 'AZO', 'AVL', 'INT', 'BGR', 
+- 'JAX' 
+- 'GJT', 
+- 'TRI', 
+- 'IAH', 
+- 'EYW', 'DAL', 'AZO', 'AVL', 'INT', 'BGR', 
  'AUS', 'DAY', 'ABE', 'HPN', 'OMA', 'ATL', 'FAT', 'RIC', 'GRR', 'SMF', 
  'BOI', 'DET', 'MIA', 'MCO', 'CHS', 'SBN', 'SFO', 'LAS', 'AMA', 'PSP', 
  'FSD', 'JFK', 'DCA', 'HIO', 'DTW', 'BDL', 'HVN', 'DLH', 'FAY', 'ABQ', 
