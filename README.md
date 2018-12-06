@@ -7,34 +7,23 @@ Kiana Montazeri
 Dec 4th, 2018
 Drexel University, Philadelphia, PA
 *****************************************************************************************************************************************
-Columns | Definition |
---- | --- |
-avgoktas 							                   |Average Okta Number
---- | --- |
-coolingdegreedays: 					           |Cooling Degree Days
---- | --- |
-coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
---- | --- |
+ Columns | Definition |
+ --- | --- |
+ avgoktas 							                   |Average Okta Number
+ --- | --- |
+ coolingdegreedays: 					           |Cooling Degree Days
+ coolingdegreedaysnormal: 		        |Normal Cooling Degree Days
  dewpoint: 					               	   	|Dew Point
  fog: 							                	      |Fog
  gdegreedays: 					                	|Growing Degree Days
- 
  hail: 								                     |Hail
- 
  heatingdegreedays: 					           |Heating Degree Days
- 
  heatingdegreedaysnormal: 			       |Normal Heating Degree Days
- 
  humidity: 							                  |Humidity
- 
  icon:							                      	|Type of Weather(sunny, cloudy, …)
- 
  max_dewpoint:					                	|Maximum Dew Point
- 
  max_humidity:					                	|Maximun Humidity
- 
  max_pressure:					            	    |Maximum Pressure
- 
  max_temperature:						             |Maximum Temperature
  
  max_temperature_normal:				        |Normal Maximum Temperature
