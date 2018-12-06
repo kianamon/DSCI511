@@ -78,16 +78,3 @@ Drexel University, Philadelphia, PA
  AirportCodes:						|Airport Abbreviation
  AirportNames:						|Airport Name
 ******************************************************************************************************************************************
-Airport Codes:
- - 'JAX', 'GJT', 'TRI', 'IAH', 'EYW', 'DAL', 'AZO', 'AVL', 'INT', 'BGR', 'AUS', 'DAY', 'ABE', 'HPN', 'OMA', 'ATL', 'FAT', 
- - 'RIC', 'GRR', 'SMF', 'BOI', 'DET', 'MIA', 'MCO', 'CHS', 'SBN', 'SFO', 'LAS', 'AMA', 'PSP', 'FSD', 'JFK', 'DCA', 'HIO', 
- - 'DTW', 'BDL', 'HVN', 'DLH', 'FAY', 'ABQ', 'SNA', 'ROC', 'AUG', 'MHT', 'ORF', 'CVG', 'EWR', 'FAR', 'STL', 'SAV', 'TTN', 
- - 'CLT', 'MDW', 'SWF', 'MCI', 'RDU', 'ONT', 'BWI', 'EUG', 'GPT', 'PDX', 'BTV', 'LAX', 'DHN', 'ALM', 'TYS', 'LGA', 'LEX', 
- - 'PUB', 'HYA', 'CPR', 'SAN', 'MSY', 'COS', 'CAE', 'YUM', 'PVD', 'RNO', 'HSV', 'PSC', 'CHA', 'RSW', 'PIE', 'GSP', 'ALB', 
- - 'RAP', 'TOL', 'ACK', 'SAT', 'SDF', 'CID', 'EVV', 'LIT', 'RST', 'ORD', 'ELP', 'LGB', 'FYV', 'TPA', 'MKE', 'PHL', 'TUS', 
- - 'BUR', 'ORH', 'AGS', 'PWM', 'FLL', 'SYR', 'BIL', 'CMH', 'FNT', 'DFW', 'ICT', 'LAN', 'IND', 'RUT', 'RKS', 'HTS', 'PHX', 
- - 'OAK', 'CAK', 'BUF', 'DSM', 'MSN', 'LNK', 'SEA', 'ISP', 'MAF', 'FWA', 'GRB', 'AVP', 'PFN', 'CRP', 'BTL', 'MDT', 'PIR', 
- - 'SLE', 'BNA', 'SGF', 'CYS', 'CKB', 'MPV', 'BTR', 'SJC', 'MYR', 'GSO', 'MOB', 'TUL', 'JAC', 'BIS', 'CRW', 'ASE', 'PHF', 
- - 'CLE', 'SHV', 'MSP', 'DAB', 'PIA', 'FLG', 'SRQ', 'PBI', 'ACY', 'MGM', 'GEG', 'PIT', 'SLC', 'ROA', 'PNS', 'BOS', 'MBS', 
- - 'BHM', 'MEM', 'DEN', 'MLI', 'HOU', 'XNA', 'JAN', 'ERI', 'LBB', 'OKC']
-******************************************************************************************************************************************
